@@ -1,5 +1,7 @@
 # Hello there 👋
 
+[![My CV](https://img.shields.io/badge/My_CV-0a9713)](https://raw.githubusercontent.com/idefant/idefant/refs/heads/main/cv.pdf)
+
 ```js
 const sayHello = () => console.log("Hello world");
 
