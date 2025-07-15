@@ -1,6 +1,7 @@
 # Hello there 👋
 
-[![My CV](https://img.shields.io/badge/CV-Open_To_Work-07790e)](https://raw.githubusercontent.com/idefant/idefant/refs/heads/main/cv.pdf)
+<!-- [![My CV](https://img.shields.io/badge/CV-Open_To_Work-07790e)](https://raw.githubusercontent.com/idefant/idefant/refs/heads/main/cv.pdf) -->
+[![My CV](https://img.shields.io/badge/CV-07790e)](https://raw.githubusercontent.com/idefant/idefant/refs/heads/main/cv.pdf)
 [![Telegram](https://img.shields.io/badge/%40idefant-blue?logo=telegram&logoColor=white)](https://t.me/idefant)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40idefant-blue?logoColor=white)](https://www.linkedin.com/in/idefant/)
 
